@@ -7,5 +7,3 @@
   </a>
 </p>
 ![preview img](preview.jpg)
-![preview img](preview.png)
-![preview img](/preview.jpg)
